@@ -1,0 +1,12 @@
+.out-of-stock {
+  color: red;
+  font-weight: bold;
+}
+
+.in-stock {
+  font-weight: bold;
+  color: green;
+}
+button{
+  margin-left: 10px;
+}
